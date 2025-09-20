@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+**Projects I'm working on:**
+- KyuTeaCo Website
+- Full Stack Developer Certificate
