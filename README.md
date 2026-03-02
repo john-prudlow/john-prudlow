@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 **Projects I'm working on:**
 - KyuTeaCo Website
-- Full Stack Developer Certificate
+- Knights of Columbus Council Website
